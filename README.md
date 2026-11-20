@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-compiled%20to%20WASM-00599C?logo=cplusplus" alt="C++ compiled to WASM">
   <img src="https://img.shields.io/badge/games%20simulated-2.6M%2B-brightgreen" alt="2.6M+ simulated games">
   <img src="https://img.shields.io/badge/bot%20variants-1%2C298-orange" alt="1,298 bot variants">
-  <img src="https://img.shields.io/badge/ladder%20rating-2%2C425-blueviolet" alt="ladder rating 2,425">
+  <img src="https://img.shields.io/badge/ladder%20rating-2%2C478-blueviolet" alt="ladder rating 2,478">
 </p>
 
 ---
@@ -30,11 +30,11 @@ Cambridge Battlecode is a five-week AI programming competition. Each team writes
 team of units with no human input, and the bots play each other on a live ladder and then in knockout brackets.
 
 - **4th of 195 UK teams** in the UK qualifier, a double-elimination bracket on maps nobody had seen before
-- **Top 12 of 831 teams worldwide** in the international ranking, with a peak ladder rating of 2,425
+- **Top 12 of 831 teams worldwide** in the international ranking, with a ladder rating of 2,478
 - **Finalist**, one of the 16 teams invited to play live at the Cambridge Union on 18 November 2026
 
 <p align="center">
-  <img src="assets/leaderboard.png" alt="UK leaderboard, Astra La Vista at 5th with a rating of 2,425" width="100%">
+  <img src="assets/leaderboard.png" alt="UK leaderboard with Astra La Vista highlighted" width="100%">
 </p>
 
 ## The game
@@ -57,7 +57,7 @@ team of units with no human input, and the bots play each other on a live ladder
 |---|---|
 | Field | 831 teams worldwide, 195 in the UK |
 | Result | 4th UK qualifier, top 12 worldwide, Cambridge Union finalist |
-| Ladder | Peak rating 2,425 |
+| Ladder | Rating 2,478 |
 | Testing | 2.6M+ simulated games, 1,298 bot variants |
 | Tuning | 64 CPU cores, 40,000+ optimisation evaluations |
 | Language | C++ compiled to WebAssembly |

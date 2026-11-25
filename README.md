@@ -5,7 +5,7 @@
 <h1 align="center">Cambridge Battlecode 2026: 4th in the UK, Top 12 Worldwide</h1>
 
 <p align="center">
-  <b>4th of 195 UK teams</b> &nbsp;|&nbsp; <b>Top 12 of 831 teams worldwide</b> &nbsp;|&nbsp; <b>Finalist</b> at the Cambridge Union
+  <b>4th of 195 UK teams</b> &nbsp;|&nbsp; <b>Top 12 of 1,300+ teams worldwide</b> &nbsp;|&nbsp; <b>Finalist</b> at the Cambridge Union
 </p>
 
 <p align="center">
@@ -24,13 +24,13 @@
 
 ## The result
 
-**831 teams worldwide. 195 in the UK. 16 seats in the Cambridge Union final. One of them was ours.**
+**1,300+ teams worldwide. 195 in the UK. 16 seats in the Cambridge Union final. One of them was ours.**
 
 Cambridge Battlecode is a five-week AI programming competition. Each team writes a C++ bot that commands a whole
 team of units with no human input, and the bots play each other on a live ladder and then in knockout brackets.
 
 - **4th of 195 UK teams** in the UK qualifier, a double-elimination bracket on maps nobody had seen before
-- **Top 12 of 831 teams worldwide** in the international ranking, with a ladder rating of 2,478
+- **Top 12 of 1,300+ teams worldwide** in the international ranking, with a ladder rating of 2,478
 - **Finalist**, one of the 16 teams invited to play live at the Cambridge Union on 18 November 2026
 
 <p align="center">
@@ -55,7 +55,7 @@ team of units with no human input, and the bots play each other on a live ladder
 
 | | |
 |---|---|
-| Field | 831 teams worldwide, 195 in the UK |
+| Field | 1,300+ teams worldwide, 195 in the UK |
 | Result | 4th UK qualifier, top 12 worldwide, Cambridge Union finalist |
 | Ladder | Rating 2,478 |
 | Testing | 2.6M+ simulated games, 1,298 bot variants |
